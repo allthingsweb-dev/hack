@@ -1,8 +1,8 @@
 # at/hack
 
-The starting point for a project at an all things hackathon. all things runs free evenings for people who build software in San Francisco; at/hack is the hackathon kind. Teams build something in a set time, show it, and judges pick the winners. Most are lightning hackathons, with about 90 to 120 minutes of hacking. The event page has the schedule.
+The starting point for a project at an allthings hackathon. allthings runs free evenings for people who build software in San Francisco; at/hack is the hackathon kind. Teams build something in a set time, show it, and judges pick the winners. Most are lightning hackathons, with about 90 to 120 minutes of hacking. The event page has the schedule.
 
-Template version: **v1.0.0** (see [CHANGELOG.md](CHANGELOG.md))
+Template version: **v1.0.1** (see [CHANGELOG.md](CHANGELOG.md))
 
 ## Start
 
