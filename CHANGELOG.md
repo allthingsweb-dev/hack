@@ -2,6 +2,10 @@
 
 Versions follow [semver](https://semver.org): a major version changes a rule, submission requirement or judging criterion.
 
+## v1.0.1 (2026-10-07)
+
+- The name is one word: allthings, as in allthings.dev. Nothing a team has to do changes.
+
 ## v1.0.0 (2026-10-06)
 
 The first at/hack template.
